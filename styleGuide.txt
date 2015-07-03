@@ -1,0 +1,22 @@
+Declare all variables at the top of the scope they are present in, 
+using a single var statement.
+
+No variable shall have a name that is both a verb and a noun.
+
+Only functions and methods may use verbs.
+
+Functions which return a boolean should be 
+named "isSomething", "hasSomething", "includesSomething", etc.
+
+Only objects and data may use nouns.
+
+Put a blank line before flow control statements.
+
+Indent with four spaces, never a tab.
+
+Indent eight spaces after a line break due to wrapping.
+
+Wrap lines at 80 characters.
+
+Declare all variables at the top of the scope they are present in, 
+using a single var statement.
