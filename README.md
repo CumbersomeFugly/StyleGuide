@@ -1,0 +1,2 @@
+# StyleGuide
+Good programming habits.
